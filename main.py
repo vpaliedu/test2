@@ -1,7 +1,7 @@
 import game_data
 import random
 #fsfd
-score = 0
+score = 1
 inGame = True
 guessedNum = 0
 
